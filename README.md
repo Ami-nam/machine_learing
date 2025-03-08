@@ -1,3 +1,4 @@
 # machine_learing
-This is mY first Repository
+This is my first Repository
+<br>
 Author-Amit Verma
