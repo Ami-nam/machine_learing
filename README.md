@@ -1,4 +1,4 @@
 # machine_learing
 This is my first Repository
 <br>
-Author-Amit Verma
+Author-Amit Verma(NITC)
